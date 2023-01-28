@@ -1,4 +1,4 @@
-# untitled2
+# GraphQL Demo
 
 A new Flutter project.
 
